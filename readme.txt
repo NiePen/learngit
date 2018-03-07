@@ -7,3 +7,4 @@ add merge.
 do a test.
 do second test.
 d do a update.
+e do a update.
